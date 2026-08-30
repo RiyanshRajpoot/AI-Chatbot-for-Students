@@ -1,0 +1,10 @@
+{
+  "greeting": ["hello", "hi", "hey", "greetings", "good morning", "good evening"],
+  "courses": ["course", "courses", "offer", "subjects", "study", "what courses are available"],
+  "assignment": ["assignment", "homework", "task", "submit assignment", "where is my assignment"],
+  "exam": ["exam", "test", "quiz", "examination", "schedule", "when is the exam"],
+  "mentor": ["mentor", "guide", "teacher", "trainer", "contact mentor", "support"],
+  "certificate": ["certificate", "certification", "get certificate", "degree"],
+  "timetable": ["timetable", "schedule", "class time", "timing", "routine"],
+  "goodbye": ["bye", "goodbye", "see you", "exit", "quit", "thank you"]
+}
