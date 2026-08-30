@@ -1,0 +1,11 @@
+{
+  "greeting": "Hello! I am your AI Student Assistant. How can I help you today?",
+  "courses": "We offer Web Development, Python, Data Science, Java, AI, and Machine Learning courses.",
+  "assignment": "You can view and submit your assignments through the training portal before the specified deadline.",
+  "exam": "Exams are scheduled at the end of each module. Please check the portal dashboard for exact dates.",
+  "mentor": "You can contact your assigned mentor directly through the mentor support section in the portal.",
+  "certificate": "Your certificate will be generated and available for download after successfully completing all project tasks.",
+  "timetable": "Class timetables and live session links are updated weekly on your student dashboard.",
+  "goodbye": "You're welcome! Good luck with your studies, goodbye!",
+  "fallback": "Sorry, I can only answer student-related questions. Could you please rephrase or ask about courses, exams, or assignments?"
+}
